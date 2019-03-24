@@ -1,0 +1,1481 @@
+{"links":[
+    {
+      "source": "Spring Core",
+      "value": "subconceptOf",
+      "target": "Spring Framework"
+    },
+    {
+      "source": "Spring MVC",
+      "value": "subconceptOf",
+      "target": "Spring Framework"
+    },
+    {
+      "source": "Spring Data JPA",
+      "value": "subconceptOf",
+      "target": "Spring Framework"
+    },
+    {
+      "source": "Spring AOP",
+      "value": "subconceptOf",
+      "target": "Spring Framework"
+    },
+    {
+      "source": "Spring Security",
+      "value": "subconceptOf",
+      "target": "Spring Framework"
+    },
+    {
+      "source": "Spring Cloud",
+      "value": "subconceptOf",
+      "target": "Spring Framework"
+    },
+    {
+      "source": "Spring Reactive",
+      "value": "subconceptOf",
+      "target": "Spring Framework"
+    },
+    {
+      "source": "Beans",
+      "value": "subconceptOf",
+      "target": "Spring Core"
+    },
+    {
+      "source": "IOC Container",
+      "value": "subconceptOf",
+      "target": "Spring Core"
+    },
+    {
+      "source": "Annotations",
+      "value": "subconceptOf",
+      "target": "Spring Core"
+    },
+    {
+      "source": "Domain Model",
+      "value": "subconceptOf",
+      "target": "Spring MVC"
+    },
+    {
+      "source": "View",
+      "value": "subconceptOf",
+      "target": "Spring MVC"
+    },
+    {
+      "source": "RESTful service",
+      "value": "subconceptOf",
+      "target": "Spring MVC"
+    },
+    {
+      "source": "Lifecycle",
+      "value": "subconceptOf",
+      "target": "Beans"
+    },
+    {
+      "source": "Scopes",
+      "value": "subconceptOf",
+      "target": "Beans"
+    },
+    {
+      "source": "Autowiring",
+      "value": "subconceptOf",
+      "target": "Beans"
+    },
+    {
+      "source": "Declaration",
+      "value": "subconceptOf",
+      "target": "Beans"
+    },
+    {
+      "source": "Customization",
+      "value": "subconceptOf",
+      "target": "Beans"
+    },
+    {
+      "source": "Bean Definition Inheritance",
+      "value": "subconceptOf",
+      "target": "Beans"
+    },
+    {
+      "source": "Dependancy Injection",
+      "value": "subconceptOf",
+      "target": "IOC Container"
+    },
+    {
+      "source": "Bean Factory",
+      "value": "subconceptOf",
+      "target": "IOC Container"
+    },
+    {
+      "source": "Application Context",
+      "value": "subconceptOf",
+      "target": "IOC Container"
+    },
+    {
+      "source": "Custom Annotation",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@Primary",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@Qualifier",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@Bean",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@Component",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@Autowired",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@ComponentScan",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@Required",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@Resource",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@PostConstruct",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@PreDestroy",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@Configuration",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@Value",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "Value Object",
+      "value": "subconceptOf",
+      "target": "Domain Model"
+    },
+    {
+      "source": "Entity",
+      "value": "subconceptOf",
+      "target": "Domain Model"
+    },
+    {
+      "source": "Template Engine",
+      "value": "subconceptOf",
+      "target": "View"
+    },
+    {
+      "source": "JSP",
+      "value": "subconceptOf",
+      "target": "View"
+    },
+    {
+      "source": "Annotations",
+      "value": "subconceptOf",
+      "target": "RESTful service"
+    },
+    {
+      "source": "REST Levels",
+      "value": "subconceptOf",
+      "target": "RESTful service"
+    },
+    {
+      "source": "modes",
+      "value": "subconceptOf",
+      "target": "Autowiring"
+    },
+    {
+      "source": "Annotation",
+      "value": "subconceptOf",
+      "target": "Declaration"
+    },
+    {
+      "source": "XML Configuration",
+      "value": "subconceptOf",
+      "target": "Declaration"
+    },
+    {
+      "source": "Lifecycle callbacks",
+      "value": "subconceptOf",
+      "target": "Customization"
+    },
+    {
+      "source": "Types",
+      "value": "subconceptOf",
+      "target": "Dependancy Injection"
+    },
+    {
+      "source": "Messaging",
+      "value": "subconceptOf",
+      "target": "Application Context"
+    },
+    {
+      "source": "Events",
+      "value": "subconceptOf",
+      "target": "Application Context"
+    },
+    {
+      "source": "Jade4J",
+      "value": "subconceptOf",
+      "target": "Template Engine"
+    },
+    {
+      "source": "Thymeleaf",
+      "value": "subconceptOf",
+      "target": "Template Engine"
+    },
+    {
+      "source": "FreeMarker",
+      "value": "subconceptOf",
+      "target": "Template Engine"
+    },
+    {
+      "source": "Groovy Markup Template Engine",
+      "value": "subconceptOf",
+      "target": "Template Engine"
+    },
+    {
+      "source": "Velocity",
+      "value": "subconceptOf",
+      "target": "Template Engine"
+    },
+    {
+      "source": "Jmustache",
+      "value": "subconceptOf",
+      "target": "Template Engine"
+    },
+    {
+      "source": "Pebble",
+      "value": "subconceptOf",
+      "target": "Template Engine"
+    },
+    {
+      "source": "@Controller",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@SessionAttributes",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@SessionAttribute",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@RestControllerAdvice",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@ControllerAdvice",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@ResponseStatus",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@ResponseBody",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@RequestPart",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@RequestHeader",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@RequestParam",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@RequestAttribute",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@InitBinder",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@ExceptionHandler",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@CrossOrigin",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@CookieValue",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@PathVariable",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@RequestBody",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@RequestMapping",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "@RestController",
+      "value": "subconceptOf",
+      "target": "Annotations"
+    },
+    {
+      "source": "Level 0",
+      "value": "subconceptOf",
+      "target": "REST Levels"
+    },
+    {
+      "source": "Level 1",
+      "value": "subconceptOf",
+      "target": "REST Levels"
+    },
+    {
+      "source": "Level 2",
+      "value": "subconceptOf",
+      "target": "REST Levels"
+    },
+    {
+      "source": "Hateos",
+      "value": "subconceptOf",
+      "target": "REST Levels"
+    },
+    {
+      "source": "Initialization callbacks",
+      "value": "subconceptOf",
+      "target": "Lifecycle callbacks"
+    },
+    {
+      "source": "Destruction callbacks",
+      "value": "subconceptOf",
+      "target": "Lifecycle callbacks"
+    },
+    {
+      "source": "Setter based DI",
+      "value": "subconceptOf",
+      "target": "Types"
+    },
+    {
+      "source": "Property based DI",
+      "value": "subconceptOf",
+      "target": "Types"
+    },
+    {
+      "source": "Constructor based DI",
+      "value": "subconceptOf",
+      "target": "Types"
+    },
+    {
+      "source": "ApplicationEvent",
+      "value": "subconceptOf",
+      "target": "Events"
+    },
+    {
+      "source": "ApplicationListener",
+      "value": "subconceptOf",
+      "target": "Events"
+    },
+    {
+      "source": "@PatchMapping",
+      "value": "subconceptOf",
+      "target": "@RequestMapping"
+    },
+    {
+      "source": "@PutMapping",
+      "value": "subconceptOf",
+      "target": "@RequestMapping"
+    },
+    {
+      "source": "@GetMapping",
+      "value": "subconceptOf",
+      "target": "@RequestMapping"
+    },
+    {
+      "source": "@PostMapping",
+      "value": "subconceptOf",
+      "target": "@RequestMapping"
+    },
+    {
+      "source": "@DeleteMapping",
+      "value": "subconceptOf",
+      "target": "@RequestMapping"
+    }
+  ],
+ "lin": [
+    {
+      "source": "Define",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "reply",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "List",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Sequence",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Write",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Describe",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Tell",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Locate",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Recite",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Recall",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Repeat",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "fundamental",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Name",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Tell",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Match",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Memorize",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Recognize",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Manage",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "select",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Record",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Enumerate",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Order",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Quote",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Read",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Outline",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Label",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "view",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Find",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "State",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Duplicate",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Count",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Reproduce",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "State",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Identify",
+      "value": "termsOf",
+      "target": "Knowledge"
+    }
+    ,
+    {
+      "source": "Infer",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Rewrite",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "select",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Discuss",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Outline",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Example",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Generalized",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Predict",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Describe",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Compare",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Classify",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Indicate",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Summarize",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Translate",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Reconize",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Rewrite",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Explain",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Tell",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Paraphrase",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Express",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Review",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Recognize",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Describe",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Tell",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Restate",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Defend",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Convert",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Identify",
+      "value": "termsOf",
+      "target": "Comprehension"
+    }
+    ,
+    {
+      "source": "Discover",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Complete",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Write",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Modify",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Compute",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "List",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Show",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Apply",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Schedule",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Illustrate",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Construct ",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Employ",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Dramatize",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Operate",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Sketch",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Classify",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Practice",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Use",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Manipulate",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Demonstrate",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Change",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Interpret",
+      "value": "termsOf",
+      "target": "Application"
+    }
+    ,
+    {
+      "source": "Distinguish",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Diagram",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Question",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Appraise",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Categorize",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Differentiate",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Test",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Analyze",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Subdivide",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Outline",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Separate",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Infer",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Experiment",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Calculate",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Contrast",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Debate",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Inventory",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Examine",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Test",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Illustrate",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Point out",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Classify",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Discriminate",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "select",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Recognize",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Identify",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Inspect",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Explain",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Compare",
+      "value": "termsOf",
+      "target": "Analysis"
+    }
+    ,
+    {
+      "source": "Create",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Manage",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Tell",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Propose",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Generate",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Construct",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Write",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Manage",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Collect",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Prepare",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Construct ",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Summarize",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Assemble ",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Devise",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Synthesize",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Organize",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Rearrange",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Combine",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Reconstruct",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Reorganize",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Comply",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Design",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Setup",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Compose",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Formulate",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Rewrite",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Tell",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Express",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Plan",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Arrange",
+      "value": "termsOf",
+      "target": "Synthesis"
+    }
+    ,
+    {
+      "source": "Evaluate",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Attach",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Justify",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Conclude",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Interpret",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Score",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Select",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Estimate",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Defend",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Summarize",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Judge",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Revise",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Rate",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Measure",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Compare",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Assess",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Interpret",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Value",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Argue",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Support",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Choose",
+      "value": "termsOf",
+      "target": "Evaluation"
+    }
+    ,
+    {
+      "source": "Appraise ",
+      "value": "termsOf",
+      "target": "Evaluation"
+    },
+      {
+        "source": "Knowledge",
+        "value": "levelOf",
+        "target": "Intent"
+      }
+      ,
+      {
+        "source": "Comprehension",
+        "value": "levelOf",
+        "target": "Intent"
+      }
+      ,
+      {
+        "source": "Application",
+        "value": "levelOf",
+        "target": "Intent"
+      }
+      ,
+      {
+        "source": "Analysis",
+        "value": "levelOf",
+        "target": "Intent"
+      }
+      ,
+      {
+        "source": "Synthesis",
+        "value": "levelOf",
+        "target": "Intent"
+      }
+      ,
+      {
+        "source": "Evaluation",
+        "value": "levelOf",
+        "target": "Intent"
+      }
+      ]
+  
+
+}
